@@ -202,6 +202,6 @@ During the ongoing status of the project details, no AI involvement is involved 
 - Description: Develop the application on mobile so it would be accessible on the go.
 - Implementation: Construct cross-platform mobile apps using either the Svelte Native or React Native frameworks.
 
-5. **AI Integration:
+5. **AI Integration:**
 - **Description:** Integrate AI capabilities in the application to recommend workouts based on users' data.
 - **Implementation:** Implement machine learning models and/or cloud-based AI services to handle user data processing and recommendations.
