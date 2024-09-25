@@ -7,6 +7,7 @@
   - [Interviewing](#interviewing)
   - [Sketching](#sketching)
   - [Feedback](#feedback)
+  - [Mock User](#mock-user)
 - [Interface Description](#interface-description)
   - [Features and Controls](#features-and-controls)
   - [Screenshots](#screenshots)
@@ -74,6 +75,10 @@ Responsive Design: It should assure usability on all devices, from desktops down
 ### Feedback
 
 During the design process, there was continuous feedback being sought to make the interface as functional as possible. Iterative testing with target users surfaced many ways in which this design could be bettered in terms of usability or even for addition of feature sets.
+
+### Mock User
+
+I am going to be my own mock user. I would ideally use this 6 days a week in order to track all of the health activities that I do. I like to go to the gym 6 days a week, and am always trying to get better! This app will hopefully help me reach those goals by ensuring I am pushing myself every single day.
 
 ---
 Description of Interface
