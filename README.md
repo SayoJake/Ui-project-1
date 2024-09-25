@@ -97,16 +97,16 @@ Previous Entries
 ### Screenshots
 
 - **Main Dashboard:**
-![Main Dashboard](/main_dashboard.png)
+![Main Dashboard](main_dashboard.png)
 
 - **Log Exercise:**
-![Log Exercise](/log_activities.png)
+![Log Exercise](log_activities.png)
 
 - **Performance Overview:**
-![Performance Overview](/performance_overview.png)
+![Performance Overview](performance_overview.png)
 
 - **Edit Entry Modal:**
-![Edit Entry Modal](/edit_entry.png)
+![Edit Entry Modal](edit_entry.png)
 
 ---
 
