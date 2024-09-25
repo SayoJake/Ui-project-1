@@ -22,10 +22,8 @@
   - [Incomplete Work](#incomplete-work)
 - [Demo Video](#demo-video)
 - [Links](#links)
-  - [GitHub Repository](#github-repository)
-  - [Live Application](#live-application)
-- [Conclusion](#conclusion)
-
+  - [GitHub Website Link](#github-website-link)
+  - [Video Overview](#video-overview)
 ---
 
 ## Project Description
@@ -205,3 +203,14 @@ During the ongoing status of the project details, AI was used moderately in deve
 5. **AI Integration:**
 - **Description:** Integrate AI capabilities in the application to recommend workouts based on users' data.
 - **Implementation:** Implement machine learning models and/or cloud-based AI services to handle user data processing and recommendations.
+
+
+## Links
+
+## GitHub Repository
+![Overview](overview.mp4)
+
+## Video Overview
+https://sayojake.github.io/UI-Project-1/index.html
+
+
