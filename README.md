@@ -68,6 +68,14 @@ To implement real user needs into **Weight Lifting Tracker**, two close friends 
 From the results of the interview, preliminary sketches were used to roughly outline how the application would look, focusing on how the user would progress through it. A minimalist approach was taken in design, including only what is necessary, so that the user may navigate the application with ease.
 
 -**First Sketch**
+![First Sketch](first_sketch.jpeg)
+
+-**Goals**
+![Goals](goals.jpeg)
+
+-**Adding Activities**
+![Adding Activities](adding_activities.jpeg)
+
 
 **Key Features of the Design:**
 - **Minimalist Layout:** Clean design where different activities are divided into well-marked sections.
