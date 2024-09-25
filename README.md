@@ -123,8 +123,7 @@ Previous Entries
 * **Vite:** Employed due to its speed of build times and streamlined development process, Vite ensures rapid iterations during development and optimized builds for production environments.
 
 **Deployment:**
-**GitHub Pages:** The application is hosted in GitHub Pages, making it reliable and easy to access.
-.smile
+**GitHub Pages:** The application is hosted in GitHub Pages, making it reliable and easy to access :).
 
 **Important Files**
 - **App.svelte:** It is the topmost component and organizes the layout and routing of this application.
@@ -150,6 +149,10 @@ Previous Entries
 ## Use of AI
 
 During the ongoing status of the project details, no AI involvement is involved in developing **Weight Lifting Tracker** but maybe some AI-driven feature integrations might be there in some future enhancements.
+
+**AI Uses In This Project**
+- **Public Link** When attempting to publish to my github pages, I ran into an issue saying that I had to use Vite. I had not heard of Vite before, so I utilized AI to help me understand and get that working. It was very very helpful here, as it can be a great teacher tailored person by person.
+- **Implementation** I used AI here and there in the implementation. It was beneficial at times, but hurtful at times. This really shines a light that while AI can be very helpful, it is a TOOL and not an end-all-be-all.
 
 **Future AI Integration:**
 - **Progressive Overload Recommendations:**
