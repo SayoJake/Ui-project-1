@@ -207,10 +207,11 @@ During the ongoing status of the project details, AI was used moderately in deve
 
 ## Links
 
-## GitHub Repository
-![Overview](overview.mp4)
-
 ## Video Overview
+![Overview](overview.mp4)
+https://youtu.be/fTeCy_Jxj7Q
+
+## GitHub Repository
 https://sayojake.github.io/UI-Project-1/index.html
 
 
