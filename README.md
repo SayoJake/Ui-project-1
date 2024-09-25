@@ -63,9 +63,11 @@ To implement real user needs into **Weight Lifting Tracker**, two close friends 
 - **Progress Visualization:** It is very exciting and satisfying to see improvement over time.
 - **Extensive Workout Logging:** Detailed workout logs serve as a personal diary and useful in planning for future workouts.
 
-### Wireframing
+### Sketching
 
 From the results of the interview, preliminary sketches were used to roughly outline how the application would look, focusing on how the user would progress through it. A minimalist approach was taken in design, including only what is necessary, so that the user may navigate the application with ease.
+
+-**First Sketch**
 
 **Key Features of the Design:**
 - **Minimalist Layout:** Clean design where different activities are divided into well-marked sections.
