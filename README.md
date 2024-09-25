@@ -96,19 +96,17 @@ Previous Entries
 
 ### Screenshots
 
-*Replace placeholder paths with your actual screenshots for the application.*
-
 - **Main Dashboard:**
-![Main Dashboard](path_to_screenshot_main_dashboard.png)
+![Main Dashboard](/main_dashboard.png)
 
 - **Log Exercise:**
-![Log Exercise](path_to_screenshot_log_exercise.png)
+![Log Exercise](/log_activities.png)
 
 - **Performance Overview:**
-![Performance Overview](path_to_screenshot_performance_overview.png)
+![Performance Overview](/performance_overview.png)
 
 - **Edit Entry Modal:**
-Edit Entry Modal.png
+![Edit Entry Modal](/edit_entry.png)
 
 ---
 
