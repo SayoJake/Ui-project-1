@@ -163,7 +163,7 @@ Previous Entries
 
 ## Use of AI
 
-During the ongoing status of the project details, no AI involvement is involved in developing **Weight Lifting Tracker** but maybe some AI-driven feature integrations might be there in some future enhancements.
+During the ongoing status of the project details, AI was used moderately in developing **Weight Lifting Tracker**. Beyond this, some AI-driven feature integrations might also be there in some future enhancements.
 
 **AI Uses In This Project**
 - **Public Link** When attempting to publish to my github pages, I ran into an issue saying that I had to use Vite. I had not heard of Vite before, so I utilized AI to help me understand and get that working. It was very very helpful here, as it can be a great teacher tailored person by person.
