@@ -7,6 +7,7 @@
   - [Interviewing](#interviewing)
   - [Sketching](#sketching)
   - [Feedback](#feedback)
+  - [Mock User](#mock-user)
 - [Interface Description](#interface-description)
   - [Features and Controls](#features-and-controls)
   - [Screenshots](#screenshots)
@@ -62,9 +63,11 @@ To implement real user needs into **Weight Lifting Tracker**, two close friends 
 - **Progress Visualization:** It is very exciting and satisfying to see improvement over time.
 - **Extensive Workout Logging:** Detailed workout logs serve as a personal diary and useful in planning for future workouts.
 
-### Wireframing
+### Sketching
 
 From the results of the interview, preliminary sketches were used to roughly outline how the application would look, focusing on how the user would progress through it. A minimalist approach was taken in design, including only what is necessary, so that the user may navigate the application with ease.
+
+-**First Sketch**
 
 **Key Features of the Design:**
 - **Minimalist Layout:** Clean design where different activities are divided into well-marked sections.
@@ -74,6 +77,10 @@ Responsive Design: It should assure usability on all devices, from desktops down
 ### Feedback
 
 During the design process, there was continuous feedback being sought to make the interface as functional as possible. Iterative testing with target users surfaced many ways in which this design could be bettered in terms of usability or even for addition of feature sets.
+
+### Mock User
+
+I am going to be my own mock user. I would ideally use this 6 days a week in order to track all of the health activities that I do. I like to go to the gym 6 days a week, and am always trying to get better! This app will hopefully help me reach those goals by ensuring I am pushing myself every single day.
 
 ---
 Description of Interface
@@ -123,8 +130,7 @@ Previous Entries
 * **Vite:** Employed due to its speed of build times and streamlined development process, Vite ensures rapid iterations during development and optimized builds for production environments.
 
 **Deployment:**
-**GitHub Pages:** The application is hosted in GitHub Pages, making it reliable and easy to access.
-.smile
+**GitHub Pages:** The application is hosted in GitHub Pages, making it reliable and easy to access :).
 
 **Important Files**
 - **App.svelte:** It is the topmost component and organizes the layout and routing of this application.
@@ -150,6 +156,10 @@ Previous Entries
 ## Use of AI
 
 During the ongoing status of the project details, no AI involvement is involved in developing **Weight Lifting Tracker** but maybe some AI-driven feature integrations might be there in some future enhancements.
+
+**AI Uses In This Project**
+- **Public Link** When attempting to publish to my github pages, I ran into an issue saying that I had to use Vite. I had not heard of Vite before, so I utilized AI to help me understand and get that working. It was very very helpful here, as it can be a great teacher tailored person by person.
+- **Implementation** I used AI here and there in the implementation. It was beneficial at times, but hurtful at times. This really shines a light that while AI can be very helpful, it is a TOOL and not an end-all-be-all.
 
 **Future AI Integration:**
 - **Progressive Overload Recommendations:**
